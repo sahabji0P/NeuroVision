@@ -1,0 +1,40 @@
+{
+    "team": [
+        {
+            "name": "Shashwat Jain",
+            "role": "Lead Developer",
+            "social": {
+                "github": "https://github.com/sahabji0P",
+                "linkedin": "https://linkedin.com/in/itsshashwatjain",
+                "website": "https://shashwatjain.me"
+            }
+        },
+        {
+            "name": "Nikhil",
+            "role": "Data Scientist",
+            "social": {
+                "github": "https://github.com/nikhil",
+                "linkedin": "https://linkedin.com/in/nikhil",
+                "website": "nikhilexample.com"
+            }
+        },
+        {
+            "name": "Tapassya",
+            "role": "Frontend Developer",
+            "social": {
+                "github": "https://github.com/tapassya",
+                "linkedin": "https://linkedin.com/in/tapassya",
+                "website": "tapassyaexample.com"
+            }
+        },
+        {
+            "name": "Shivansh",
+            "role": "Backend Developer",
+            "social": {
+                "github": "https://github.com/shivansh",
+                "linkedin": "https://linkedin.com/in/shivansh",
+                "website": "shivanshexample.com"
+            }
+        }
+    ]
+}
