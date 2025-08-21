@@ -1,30 +1,42 @@
-# NeuroVision
+🧠 NeuroVision
 
-A brain tumor classification system using deep learning.
+A Deep Learning-Powered Brain Tumor Classification System
 
-## Project Description
-This project implements a deep learning-based system for brain tumor classification using medical imaging data.
+📌 Overview
 
-## Features
-- Brain tumor classification
-- Web-based interface
-- Deep learning model integration
-- User-friendly dashboard
+NeuroVision is a deep learning-based system designed to assist in brain tumor classification using medical imaging data. It integrates advanced computer vision models with a user-friendly web interface, enabling easy and efficient tumor analysis.
 
-## Installation
-1. Clone the repository
+🚀 Features
+
+✅ Accurate Tumor Classification – Powered by deep learning models.
+
+🌐 Web-Based Interface – Accessible from any browser.
+
+📊 Interactive Dashboard – Displays predictions and insights clearly.
+
+⚡ Seamless Integration – Easy to extend or adapt with new models.
+
+🛠️ Installation
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/your-username/NeuroVision.git
+cd NeuroVision
+```
+
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Usage
+## ▶️ Usage
 Run the application:
 ```bash
 python app.py
 ```
 
-## Project Structure
+## 📂Project Structure
 ```
 NeuroVision/
 ├── app.py              # Main application file
@@ -34,5 +46,5 @@ NeuroVision/
 └── requirements.txt    # Python dependencies
 ```
 
-## License
-This project is licensed under the MIT License. 
+## 📜 License
+This project is licensed under the MIT License.
